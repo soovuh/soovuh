@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi, 👋🏻 I'm Illia!
 
-<!--
-**soovuh/soovuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My life is very bright and colorful:
 
-Here are some ideas to get you started:
+| key                   | value                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Programming Languages | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&color=3776AB) ![SQL Badge](https://img.shields.io/badge/-SQL-609540?style=flat-square&logo=elastic%20stack&logoColor=white&color=609540) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&color=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)                  |
+| Frameworks            | ![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white&color=092E20) ![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white&color=000000)  ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)                                                                                                                         |
+| DataBases             | ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white&color=336791) ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&color=4479A1) ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white&color=003B57)  ![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white&color=DC382D) |
+| IDE, Tools            | ![Sublime Badge](https://img.shields.io/badge/-Sublime-FF9800?style=flat-square&logo=sublime%20text&logoColor=white&color=FF9800) ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000?style=flat-square&logo=PyCharm&logoColor=white&color=000)                                                                                                                                                                                                                                                 |
+| Version Control       | ![git Badge](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white&color=F05032) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&color=181717)                                                                                                                                                                                                                                                                 |
+| DevOps                | ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&color=2496ED)                                                                                                                                                                                                                                                                                                                                                                                |
+| OS                    | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000&color=FCC624)                                                                                                                                                                                                                                                                                                                                                                                     |
+| Codewars              | [![codewars](https://www.codewars.com/users/soovuh/badges/small)](https://www.codewars.com/users/soovuh)                                                                                                                                                                                                                                                                                                                                                                               |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Top Languages Here:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soovuh&layout=compact&count_private=true&show_icons=True)
+
+##### Follow me around the web 👍🏻:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illia-klymenko/)](https://www.linkedin.com/in/illia-klymenko/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/soovuh)](https://t.me/soovuh)
