@@ -12,6 +12,9 @@ Hi, 👋 I'm Illia!
 | OS                    | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white&color=005d74) ![Windows Badge](https://img.shields.io/badge/-Windows-FCC624?style=flat-square&logo=Windows&logoColor=005d74&color=white)  ![ Badge](https://img.shields.io/badge/--FCC624?style=flat-square&logo=Ios&logoColor=white&color=005d74)                                                                                                                                                                                                                                                                                                                                                                                    |
 | Codewars              | [![codewars](https://www.codewars.com/users/soovuh/badges/small)](https://www.codewars.com/users/soovuh)                                                                                                                                                                                                                                                                                                                                                                               |
 
+##### Top Languages Here:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soovuh&layout=compact&count_private=true&show_icons=True)
 
 ##### Follow me around the web 😉:
 
