@@ -16,4 +16,4 @@ Hi, 👋 I'm Illia!
 ##### Follow me around the web 😉:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=005d74&color=white&link=https://www.linkedin.com/in/illia-klymenko/)](https://www.linkedin.com/in/illia-klymenko/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&color=005d74&link=https://t.me/soovuh)](https://t.me/soovuh)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-005d74?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&color=005d74&link=https://t.me/soovuh)](https://t.me/soovuh)
